@@ -1,0 +1,16 @@
+@font-face {
+    font-family: Rumble Brave;
+    src: url("C:\Users\peter\Downloads\rumble_brave\Rumble Brave.otf");
+}
+
+body{
+    background-color: rgb(223, 230, 230);
+    height: 92vh;
+    width: 92;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color:rgb(4, 60, 4);
+    font-family: Rumble Brave;
+}
